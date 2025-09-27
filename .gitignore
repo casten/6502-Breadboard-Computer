@@ -7,3 +7,4 @@ examples.txt
 .byebug_history
 
 .ruby-gemset
+cc65/hello.s
